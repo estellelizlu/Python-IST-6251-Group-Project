@@ -1,0 +1,9 @@
+echo "# Python-IST-6251-Group-Project" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/estellelizlu/Python-IST-6251-Group-Project.git
+git push -u origin main
+
+#Group Meeting September 26th 3:00 PM
